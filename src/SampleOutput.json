@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JON GAMBRELL",
+            "title": "World Cup fans find booze at hotels, Qatar's 1 liquor store",
+            "description": "DOHA, Qatar (AP) — In a dusty neighborhood on the outskirts of Qatar's capital, guards stand duty at a gated compound ringed with razor wire, carefully checking passports and permits before allowing anyone inside.",
+            "url": "https://apnews.com/56fd4952552360f030e2b7da7d8ace41",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d2af305f8b614260a30a41aaa0ed519f/3000.jpeg",
+            "publishedAt": "2022-12-05T09:06:54Z",
+            "content": "DOHA, Qatar (AP) — In a dusty neighborhood on the outskirts of Qatar's capital, guards stand duty at a gated compound ringed with razor wire, carefully checking passports and permits before allowing … [+5266 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le ministère des Sports veut muscler le bénévolat sportif",
+            "description": "La ministre des Sports et des Jeux Olympiques et Paralympiques planche ce lundi avec plusieurs membres du gouvernement autour de trois pistes destinées à encourager le bénévolat sportif, en souffrance depuis le début de la crise sanitaire.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-ministere-des-sports-veut-muscler-le-benevolat-sportif/1368542",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-benevolat-sportif-fait-l-objet-d-une-matinee-de-travail-sous-l-impulsion-du-ministere-des-sports-/1500000001720431/0:0,1991:1327-640-427-75/57586.jpg",
+            "publishedAt": "2022-12-05T08:39:20+00:00",
+            "content": "La crise sanitaire et ses confinements sont passés par là. En plus de perdre bon nombre de leurs licenciés, les clubs ont aussi vu partir leurs bénévoles, ou plutôt ne les ont pas vus revenir. Engagé… [+4716 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rick Reilly",
+            "title": "The ultimate gate-crasher reaches the end of the line",
+            "description": "I covered sports for 36 years and Dion Rich, with his salad-bowl haircut, was everywhere I was — only in better seats.",
+            "url": "https://www.washingtonpost.com/opinions/2022/11/28/dion-rich-dies-super-bowl-gatecrasher-appreciation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q3YIC7LZ2NBCZIYMX4TBCE5SXA.jpg&w=1440",
+            "publishedAt": "2022-11-28T12:00:00Z",
+            "content": "Comment on this story\r\nThere are Taylor Swift tickets selling for more than $8,000 these days. Thats the kind of stuff that would befuddle Dion Rich. Why pay when you dont have to? he always said.\r\nD… [+4064 chars]"
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Caroline Downey",
+            "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+            "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+            "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+            "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+            "publishedAt": "2022-11-15T02:37:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+            "urlToImage": null,
+            "publishedAt": "2022-11-14T22:07:16.2323649Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        }
+    ]
+}
