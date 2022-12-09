@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import  './css/Navbar.css';
 import { Link } from "react-router-dom";
 
@@ -21,9 +21,9 @@ function mobileMenu() {
 
  
 
-export default class Navbar extends Component {
-  render() {
-  
+// export default class Navbar extends Component {
+//   render() {
+  const Navbar = () =>{
     return (
       <div>
         <nav>
@@ -57,4 +57,5 @@ export default class Navbar extends Component {
 
     )
   }
-}
+
+  export default Navbar
